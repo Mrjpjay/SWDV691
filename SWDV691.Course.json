@@ -1,0 +1,605 @@
+[{
+  "_id": {
+    "$oid": "655265cd9a7d733a2c2c02a9"
+  },
+  "major": {
+    "title": "Software Development",
+    "courses": [
+      {
+        "title": "Introduction to Computer Science",
+        "description": "Introduction to Computer Science is an entry-level course for students majoring in software development or related fields. This course provides a comprehensive overview of the fundamental concepts in computer science. Students will explore the history and evolution of computing, the basics of computer architecture, and an introduction to programming languages, emphasizing understanding how software and hardware interact. The course includes practical exercises and projects, enabling students to apply theoretical concepts in real-world scenarios. Emphasis is placed on problem-solving and algorithmic thinking, laying a solid foundation for more advanced studies in software development. Instructor Profile: The course is led by Dr. Emily Johnson, a distinguished professor in the Department of Computer Science with over 15 years of experience in academia and the software industry. Dr. Johnson holds a Ph.D. in Computer Science from MIT and has worked with several leading tech companies on innovative software solutions. She is known for her engaging teaching style and deep knowledge of computer science fundamentals. Dr. Johnson emphasizes practical skills alongside theoretical understanding, ensuring that students are well-prepared for the challenges of modern software development.Schedule and Format: Introduction to Computer Science is scheduled for the upcoming semester from January 10th to May 15th. Classes will be held Mondays and Wednesdays from 10:00 AM to 11:30 AM in the Smith Hall, Room 204. In addition to the twice-weekly lectures, students will participate in a weekly lab session on Fridays from 2:00 PM to 4:00 PM, providing hands-on experience with the concepts discussed in class. The course also includes online components, such as discussion forums and digital resources, accessible through the university's learning management system. Assessment will be based on assignments, projects, quizzes, and a final examination.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Programming Fundamentals",
+        "description": "Programming Fundamentals is an essential course for students pursuing a software development major. This course delves into basic programming principles using popular languages such as Python, Java, or C++. Students will learn about variables, control structures, data types, functions, and basic algorithms. The course is designed to build a strong foundation in coding and computational thinking, crucial for more advanced programming courses. Instructor Profile: Professor Mark Sullivan, with a decade of experience in software development and a master's degree in Computer Science, leads this course. Known for his interactive teaching approach, Professor Sullivan has a knack for making complex concepts accessible and enjoyable. He also brings real-world programming challenges into the classroom, preparing students for actual software development tasks. Schedule and Format: The course runs from January 12th to May 18th. Lectures are on Tuesdays and Thursdays from 9:00 AM to 10:30 AM in the Tech Building, Room 101. A weekly lab session is held every Wednesday from 3:00 PM to 5:00 PM for hands-on coding practice. The course includes an online learning component for supplementary materials and assignments. Evaluation is based on lab projects, periodic quizzes, a mid-term, and a comprehensive final exam.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Data Structures and Algorithms",
+        "description": "Data Structures and Algorithms is a crucial course for any software development major. It covers essential data structures like arrays, stacks, queues, linked lists, trees, and graphs, and explores algorithms for sorting, searching, and complex problem-solving. This course emphasizes both theoretical knowledge and practical application, preparing students for efficient coding and optimization in software development. Instructor Profile: Dr. Alan Turing, a leading figure in computer science, with extensive research in algorithm development and data structures, teaches this course. With his Ph.D. from Stanford University and a career in both academia and Silicon Valley, Dr. Turing brings a wealth of knowledge and real-world experience. His teaching style is highly analytical yet approachable, making complex concepts understandable. Schedule and Format: Scheduled from January 13th to May 17th, classes are on Tuesdays and Thursdays, from 11:00 AM to 12:30 PM in the Computer Lab, Room 302. A lab session accompanies this class every Friday from 1:00 PM to 3:00 PM. The course includes access to an online portal for additional resources and assignments. Assessment involves regular homework, two mid-term exams, and a final project that encapsulates the course's learning objectives.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Software Engineering",
+        "description": "Software Engineering is a fundamental course for students majoring in software development. It focuses on the principles and practices of software design, development methodologies, testing, and maintenance. The course covers a range of topics including requirement analysis, software design patterns, version control, and project management. Instructor Profile: Professor Linda Gates, an experienced software engineer and educator, leads the course. She holds a Master's in Software Engineering and has worked with several tech giants on large-scale software projects. Her practical insights and interactive teaching style make complex engineering concepts accessible to students. Schedule and Format: The course is scheduled from January 11th to May 16th. Lectures are on Mondays and Wednesdays from 2:00 PM to 3:30 PM in the New Tech Building, Room 205. A bi-weekly workshop session on Fridays from 10:00 AM to 12:00 PM provides practical experience with software development tools and techniques. The course incorporates online resources and collaborative projects, with assessments based on project work, quizzes, and a final examination.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Database Management Systems",
+        "description": "Database Management Systems offers students specializing in software development a deep dive into database design, development, and management, along with SQL programming. The course covers relational database models, SQL queries, database design, and transaction management. Instructor Profile: Dr. Sarah Connors, a database expert with a Ph.D. in Computer Science, teaches this course. With years of experience working in database management and research, Dr. Connors brings practical and theoretical expertise to the classroom. Her lectures are well-structured and include real-world database challenges. Schedule and Format: Running from January 14th to May 20th, the course includes lectures on Mondays and Wednesdays from 4:00 PM to 5:30 PM in the Central Hall, Room 105. A weekly lab session on Thursdays from 2:00 PM to 4:00 PM offers hands-on experience with database systems. Online components include forums and digital resources for extended learning. Students are assessed through a combination of practical assignments, SQL programming tasks, a mid-term exam, and a final project.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Web Development",
+        "description": "Web Development is a dynamic course in the software development program, focusing on designing and developing web applications. It covers HTML, CSS, JavaScript, and various backend technologies, providing a comprehensive understanding of full-stack development. The course also introduces responsive design and web accessibility standards. Instructor Profile: Led by Professor David Lee, an expert in web technologies with over a decade of experience in the industry, this course is both practical and forward-looking. Professor Lee's engaging teaching style combines theory with hands-on practice, preparing students for the evolving web development landscape. Schedule and Format: The course takes place from January 15th to May 19th, with lectures on Tuesdays and Thursdays from 3:00 PM to 4:30 PM in the Digital Arts Center, Room 201. Practical lab sessions are on Fridays from 9:00 AM to 11:00 AM. An online platform is used for additional resources, assignments, and peer collaboration. Evaluation is based on several web development projects, periodic quizzes, and a final portfolio review.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Object-Oriented Programming",
+        "description": "Object-Oriented Programming is an advanced programming course, focusing on object-oriented design principles using Java or C++. It covers concepts such as classes, objects, inheritance, polymorphism, and encapsulation. The course also explores design patterns and best practices in object-oriented development. Instructor Profile: Professor Raj Patel, a seasoned software developer with a Master's in Computer Science, teaches this course. He has extensive experience in developing complex software systems and is known for his practical approach to teaching, which includes real-world examples and projects. Schedule and Format: The course is scheduled from January 16th to May 22nd. Classes are held on Mondays and Wednesdays from 11:00 AM to 12:30 PM in the Innovation Lab, Room 307. Weekly lab sessions on Thursdays from 3:00 PM to 5:00 PM provide hands-on programming experience. The course includes online forums and resources for additional learning and support. Students are assessed through programming assignments, two mid-term exams, and a final project.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Mobile App Development",
+        "description": "Mobile App Development is a specialized course designed for students in software development. It focuses on designing and developing applications for Android (Java/Kotlin) and iOS (Swift). The course covers user interface design, mobile programming concepts, and integration with backend services. Instructor Profile: Professor Mia Wang, with a background in computer science and mobile development, leads this course. She has worked on numerous mobile applications and brings a wealth of practical knowledge and industry insights. Professor Wang's classes are interactive and project-focused, giving students a real taste of mobile app development. Schedule and Format: The course runs from January 17th to May 23rd. Lectures take place on Tuesdays and Thursdays from 10:00 AM to 11:30 AM in the Tech Hub, Room 403. A lab session is held every Wednesday from 1:00 PM to 3:00 PM for hands-on development experience. The course also includes an online learning component for project collaboration and additional resources. Evaluation includes several app development projects, quizzes, and a final app presentation.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Operating Systems",
+        "description": "Operating Systems is an essential course for software development students, providing an in-depth understanding of the fundamental concepts of operating systems. Topics include system architecture, process management, memory management, file systems, and security. Instructor Profile: Dr. Alex Green, an expert in operating systems with a Ph.D. in Computer Science, teaches this course. With a background in both academic research and industry application, Dr. Green brings a comprehensive perspective to the subject. His approachable teaching style makes complex system concepts accessible to students. Schedule and Format: The course is scheduled from January 18th to May 24th. Lectures are on Mondays and Wednesdays from 1:00 PM to 2:30 PM in the Computer Science Building, Room 309. A weekly lab session on Fridays from 10:00 AM to 12:00 PM provides practical experience with operating system functions. The course includes an online component for additional resources and peer discussion. Students' performance is evaluated through practical lab assignments, two mid-term exams, and a final project focused on operating system design.",
+        "enrolledStudents": []
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6564dd9d5f1853b769748caf"
+  },
+  "major": {
+    "title": "Business Administration",
+    "courses": [
+      {
+        "title": "Principles of Management",
+        "description": "This introductory course provides an overview of management principles in business, covering topics such as planning, organizing, leading, and controlling. Students will learn about the roles and responsibilities of managers and how management theory applies in real-world business settings. Instructor Profile: Led by Prof. David Clarkson, who has over 20 years of experience in both corporate management and academic teaching. Prof. Clarkson combines practical business insights with academic theory to provide a comprehensive learning experience. Schedule and Format: Offered from January 15th to May 20th, classes are held on Tuesdays and Thursdays from 9:00 AM to 10:30 AM. The course also includes case studies, group projects, and interactive discussions, with assessments based on assignments, projects, and a final exam.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Financial Accounting",
+        "description": "This course introduces students to the fundamentals of financial accounting, including the accounting cycle, preparation of financial statements, and basic accounting principles. Emphasis is placed on how financial accounting aids in decision-making. Instructor Profile: The course is taught by Prof. Susan Lee, a CPA with extensive experience in both accounting practice and education. Prof. Lee's approach makes accounting accessible to students of all backgrounds. Schedule and Format: Scheduled from January 10th to May 15th, with classes on Mondays and Wednesdays from 11:00 AM to 12:30 PM. The course includes practical exercises, quizzes, a mid-term, and a comprehensive final exam.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Marketing Principles",
+        "description": "Marketing Principles covers the basics of marketing theory and practice, such as market research, consumer behavior, advertising, and sales. The course aims to provide students with an understanding of how marketing strategies are developed and implemented. Instructor Profile: Prof. Emma Rodriguez, with a decade of experience in marketing and brand management, brings real-world marketing challenges into the classroom. Schedule and Format: Runs from January 12th to May 18th, with classes on Thursdays and Fridays from 2:00 PM to 3:30 PM. The course includes case studies, group discussions, and projects, with assessments based on assignments, a marketing plan project, and a final exam.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Business Ethics",
+        "description": "Business Ethics explores the ethical dilemmas and responsibilities faced in the business environment. It covers topics like corporate social responsibility, ethical decision-making, and legal compliance. Instructor Profile: Dr. Helen Grant, with a background in corporate law and ethics, brings both legal and moral perspectives to the discussions. Schedule and Format: The course is scheduled from January 13th to May 17th, with classes on Fridays from 10:00 AM to 11:30 AM. It includes case study analyses, guest speakers from the industry, and group projects. Assessment is based on participation, papers on ethical case studies, and a final presentation.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Organizational Behavior",
+        "description": "This course examines human behavior in organizational settings, focusing on individual, group, and organizational dynamics. It addresses topics such as motivation, team dynamics, leadership, conflict resolution, and organizational culture. Instructor Profile: Prof. Michael Bryant, an expert in organizational psychology, uses a mix of lectures, case studies, and interactive sessions. Schedule and Format: Offered from January 10th to May 15th, with classes on Mondays and Wednesdays from 2:00 PM to 3:30 PM. Assessments include group projects, class participation, and a final exam.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "International Business",
+        "description": "International Business covers the strategies and operations of businesses in the global market. Topics include international trade theory, global market analysis, foreign investment, and cultural diversity in business. Instructor Profile: Dr. Alex Chen, with extensive experience in international trade and business, provides insights into global business challenges. Schedule and Format: The course runs from January 12th to May 18th, with classes on Thursdays and Fridays from 4:00 PM to 5:30 PM. It includes simulations, case studies, and a final project on international business strategy.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Human Resource Management",
+        "description": "Human Resource Management focuses on the effective management of employees in organizations. Topics include recruitment, training, performance appraisal, compensation, and labor relations. Instructor Profile: Prof. Karen Thompson, with a rich background in HR management and organizational development, brings practical insights into managing human resources effectively. Schedule and Format: Classes are scheduled from January 11th to May 16th, on Wednesdays and Fridays from 9:00 AM to 10:30 AM. The course includes case studies, role plays, and a project on designing an HR policy.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Business Statistics",
+        "description": "This course introduces statistical methods and tools essential for business decision-making. Topics include descriptive statistics, probability, hypothesis testing, and regression analysis. Instructor Profile: Dr. John Lee, an expert in quantitative methods, combines theory with application, using real-world business data. Schedule and Format: Offered from January 10th to May 15th, with classes on Tuesdays and Thursdays from 11:00 AM to 12:30 PM. The course involves practical data analysis projects and regular quizzes.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Entrepreneurship and Small Business Management",
+        "description": "This course covers the fundamentals of starting and managing a small business or entrepreneurial venture, focusing on business plan development, financing, and growth strategies. Instructor Profile: Prof. Emily Rodriguez, an experienced entrepreneur, shares insights from her own business ventures. Schedule and Format: Classes are scheduled from January 15th to May 20th, on Mondays and Wednesdays from 2:00 PM to 3:30 PM. Students will work on developing their own business plans as a course project.",
+        "enrolledStudents": []
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6564e02b5f1853b769748cb0"
+  },
+  "major": {
+    "title": "Communication",
+    "courses": [
+      {
+        "title": "Introduction to Communication Studies",
+        "description": "This foundational course introduces students to the field of Communication Studies, covering key theories, models, and contexts of communication, including interpersonal, group, and mass communication. Instructor Profile: Dr. Sarah Miller, an expert in media studies and interpersonal communication, brings a blend of academic theory and practical application to her teaching. Schedule and Format: The course is scheduled for the upcoming semester from January 10th to May 15th. Classes are held on Mondays and Wednesdays from 10:00 AM to 11:30 AM. The course includes interactive lectures, group discussions, and analysis of communication in various media. Assessment is based on written assignments, presentations, and a final exam.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Media and Society",
+        "description": "Media and Society explores the complex relationship between media, culture, and society. It examines the role of media in shaping public opinion, culture, and societal values. Instructor Profile: Prof. James Anderson, with extensive experience in journalism and media analysis, provides a critical approach to understanding media impacts. Schedule and Format: Offered from January 12th to May 18th, with classes on Tuesdays and Thursdays from 2:00 PM to 3:30 PM. The course includes media critiques, research projects, and guest lectures from media professionals. Assessment is based on class participation, media analysis papers, and a research project.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Public Speaking and Rhetoric",
+        "description": "This course focuses on the art of public speaking and rhetoric. Students will learn techniques for effective speech writing and delivery, audience analysis, and persuasive speaking. Instructor Profile: Dr. Emily White, a renowned public speaker and communication coach, teaches the principles of compelling and effective public speaking. Schedule and Format: Running from January 13th to May 17th, classes are on Fridays from 1:00 PM to 2:30 PM. The course is highly interactive, with students participating in speech exercises, presentations, and critique sessions. Assessment includes several speech assignments, a persuasive speech project, and a final reflective essay.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Interpersonal Communication",
+        "description": "Interpersonal Communication examines the dynamics of communication in personal relationships, including friendships, family, and romantic partnerships. The course covers topics such as verbal and non-verbal communication, listening skills, conflict resolution, and communication ethics. Instructor Profile: Prof. Linda Green, with a background in psychology and communication, provides deep insights into the interpersonal communication process. Schedule and Format: The course runs from January 14th to May 19th, with classes on Saturdays from 9:00 AM to 10:30 AM. It includes role-playing activities, group discussions, and a final project on a personal communication analysis.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Digital Media and Communication",
+        "description": "This course explores the impact of digital media on communication practices and society. Topics include social media, digital marketing, online communities, and the ethical considerations of digital communication. Instructor Profile: Dr. Kevin Brown, an expert in digital media strategies, brings real-world experience in digital marketing and media analysis. Schedule and Format: Classes are held from January 11th to May 16th, on Wednesdays and Fridays from 3:00 PM to 4:30 PM. The course involves practical digital media projects, online discussion forums, and guest lectures from digital media professionals.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Organizational Communication",
+        "description": "Organizational Communication focuses on communication within and between organizations. It covers topics such as corporate communication, internal and external communication strategies, leadership communication, and crisis communication. Instructor Profile: Prof. Emily Johnson, with extensive experience in corporate communication and public relations, provides insights into effective communication in business settings. Schedule and Format: The course is scheduled from January 10th to May 15th, on Tuesdays and Thursdays from 10:00 AM to 11:30 AM. It includes case studies, group projects, and simulations of communication scenarios in organizations.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Cross-Cultural Communication",
+        "description": "Cross-Cultural Communication examines communication practices and challenges across different cultures. It explores topics like cultural norms, language barriers, nonverbal communication differences, and strategies for effective intercultural communication. Instructor Profile: Dr. Maria Gonzalez, an expert in intercultural studies, brings a wealth of experience from her work in multicultural environments. Schedule and Format: The course runs from January 12th to May 18th, with classes on Thursdays and Fridays from 11:00 AM to 12:30 PM. It includes interactive sessions, cultural case studies, and a project on designing a cross-cultural communication campaign.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Communication Theory",
+        "description": "Communication Theory provides an in-depth understanding of the key theories and models that form the foundation of communication studies. Topics include the process of communication, media effects, rhetorical theory, and contemporary communication models. Instructor Profile: Prof. John Carter, with a Ph.D. in Communication Theory, offers a rich blend of theoretical knowledge and practical application. Schedule and Format: Scheduled from January 10th to May 15th, classes are held on Mondays and Wednesdays from 1:00 PM to 2:30 PM. The course involves theory discussions, analytical assignments, and a final theory application project.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Media Production and Editing",
+        "description": "Media Production and Editing focuses on the skills and techniques for creating and editing various media forms, such as video, audio, and digital content. The course covers basic production techniques, editing software, and storytelling through media. Instructor Profile: Dr. Emily Watson, an experienced media producer and editor, guides students through hands-on production experiences. Schedule and Format: Offered from January 13th to May 17th, with classes on Fridays from 2:00 PM to 3:30 PM. The course includes practical workshops, individual and group media projects, and critiques of student-produced media.",
+        "enrolledStudents": []
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6564e42b5f1853b769748cb1"
+  },
+  "major": {
+    "title": "Communication",
+    "courses": [
+      {
+        "title": "Principles of Finance",
+        "description": "This introductory course covers the basic concepts and tools of finance, including financial analysis, planning, and decision-making. Topics include time value of money, risk and return, capital budgeting, and financial markets. Instructor Profile: Prof. Alan Smith, with extensive experience in corporate finance, brings real-world scenarios into the classroom. Schedule and Format: Scheduled from January 10th to May 15th, classes are on Mondays and Wednesdays from 9:00 AM to 10:30 AM. The course includes case studies, financial modeling exercises, and a final project.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Corporate Finance",
+        "description": "Corporate Finance focuses on financial decision-making in corporations. Topics include capital structure, dividend policy, mergers and acquisitions, and corporate governance. Instructor Profile: Dr. Emily Johnson, known for her practical approach to teaching finance, combines her experience in corporate financial management with academic insights. Schedule and Format: Offered from January 12th to May 18th, classes are held on Tuesdays and Thursdays from 11:00 AM to 12:30 PM. The course involves case studies, group projects, and simulations.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Investment Analysis",
+        "description": "This course covers the fundamentals of investment theory, portfolio management, and security analysis. Topics include stocks, bonds, mutual funds, risk management, and investment strategies. Instructor Profile: Prof. Mark Benson, with a background in investment banking, provides insights into real-world investment scenarios. Schedule and Format: The course runs from January 10th to May 15th, with classes on Mondays and Wednesdays from 2:00 PM to 3:30 PM. It includes market analysis assignments, portfolio simulations, and a final investment strategy project.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Financial Markets and Institutions",
+        "description": "This course explores the structure, function, and role of financial markets and institutions like banks, insurance companies, and investment firms. Topics include market operations, regulatory environment, and the impact of financial institutions on the economy. Instructor Profile: Dr. Lisa Chang, an expert in financial regulations and market analysis, brings a depth of knowledge to the subject. Schedule and Format: Scheduled from January 14th to May 19th, classes are on Saturdays from 10:00 AM to 11:30 AM. The course includes guest lectures from industry professionals, market research projects, and policy analysis.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "International Finance",
+        "description": "International Finance examines financial management in an international context. Topics include foreign exchange markets, international financial systems, risk management, and multinational corporate finance. Instructor Profile: Prof. David Nguyen, with experience in international financial consulting, provides a global perspective on finance. Schedule and Format: Offered from January 11th to May 16th, with classes on Wednesdays and Fridays from 3:00 PM to 4:30 PM. The course includes case studies on multinational corporations, currency market simulations, and a final research project on an international finance topic.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Financial Risk Management",
+        "description": "This course focuses on identifying, analyzing, and managing financial risks in business operations. Topics include market risk, credit risk, operational risk, and risk mitigation strategies. Instructor Profile: Prof. Susan Martinez, specializing in risk management, brings a blend of theory and practice to the classroom. Schedule and Format: Running from January 13th to May 17th, classes are on Fridays from 1:00 PM to 2:30 PM. The course involves risk assessment workshops, group discussions, and a comprehensive risk management project.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Personal Financial Planning",
+        "description": "Personal Financial Planning covers strategies and tools for effective personal financial management. Topics include budgeting, saving, investing, tax planning, insurance, and retirement planning. Instructor Profile: Prof. Michael Roberts, a certified financial planner with extensive experience, guides students through the nuances of personal finance. Schedule and Format: The course runs from January 10th to May 15th, with classes on Tuesdays and Thursdays from 4:00 PM to 5:30 PM. It includes practical exercises, personal finance projects, and guest lectures from financial planning professionals.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Real Estate Finance",
+        "description": "Real Estate Finance focuses on the principles of financing and investing in real estate. Topics include real estate markets, property valuation, mortgage financing, and investment analysis. Instructor Profile: Dr. Linda Johnson, with a background in real estate development and finance, brings real-world experiences to the classroom. Schedule and Format: Offered from January 12th to May 18th, classes are held on Wednesdays and Fridays from 2:00 PM to 3:30 PM. The course includes case studies, property analysis projects, and a final group project on a real estate investment proposal.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Behavioral Finance",
+        "description": "Behavioral Finance examines the psychological factors that influence financial decision-making. Topics include investor behavior, financial anomalies, market bubbles, and the impact of emotions on investment decisions. Instructor Profile: Prof. James Carter, an expert in behavioral economics, provides insights into the psychological aspects of finance. Schedule and Format: The course is scheduled from January 13th to May 17th, with classes on Fridays from 10:00 AM to 11:30 AM. It includes behavioral experiment assignments, analysis of financial case studies, and a final project on a behavioral finance topic.",
+        "enrolledStudents": []
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6564e57b5f1853b769748cb2"
+  },
+  "major": {
+    "title": "Finance",
+    "courses": [
+      {
+        "title": "Principles of Finance",
+        "description": "This introductory course covers basic concepts and tools of finance such as financial analysis, planning, and decision-making. Topics include time value of money, risk and return, capital budgeting, and financial markets. Instructor Profile: Prof. Alan Smith, with extensive experience in corporate finance, brings real-world scenarios into the classroom. Schedule and Format: Scheduled from January 10th to May 15th, classes are on Mondays and Wednesdays from 9:00 AM to 10:30 AM. The course includes case studies, financial modeling exercises, and a final project.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Corporate Finance",
+        "description": "Focuses on financial decision-making in corporations. Topics include capital structure, dividend policy, mergers and acquisitions, and corporate governance. Instructor Profile: Dr. Emily Johnson, known for her practical approach, combines experience in corporate financial management with academic insights. Schedule and Format: Offered from January 12th to May 18th, classes on Tuesdays and Thursdays from 11:00 AM to 12:30 PM. The course involves case studies, group projects, and simulations.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Investment Analysis",
+        "description": "Covers fundamentals of investment theory, portfolio management, and security analysis. Topics include stocks, bonds, mutual funds, risk management, and investment strategies. Instructor Profile: Prof. Mark Benson, with a background in investment banking, provides insights into real-world investment scenarios. Schedule and Format: Runs from January 10th to May 15th, on Mondays and Wednesdays from 2:00 PM to 3:30 PM. It includes market analysis assignments, portfolio simulations, and a final investment strategy project.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Financial Markets and Institutions",
+        "description": "Explores the structure, function, and role of financial markets and institutions like banks, insurance companies, and investment firms. Topics include market operations, regulatory environment, and the impact of financial institutions on the economy. Instructor Profile: Dr. Lisa Chang, an expert in financial regulations and market analysis. Schedule and Format: Scheduled from January 14th to May 19th, classes on Saturdays from 10:00 AM to 11:30 AM. Includes guest lectures, market research projects, and policy analysis.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "International Finance",
+        "description": "Examines financial management in an international context. Topics include foreign exchange markets, international financial systems, risk management, and multinational corporate finance. Instructor Profile: Prof. David Nguyen, with experience in international financial consulting. Schedule and Format: Offered from January 11th to May 16th, on Wednesdays and Fridays from 3:00 PM to 4:30 PM. Includes case studies on multinational corporations, currency market simulations, and a final research project.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Financial Risk Management",
+        "description": "Focuses on identifying, analyzing, and managing financial risks in business operations. Topics include market risk, credit risk, operational risk, and risk mitigation strategies. Instructor Profile: Prof. Susan Martinez, specializing in risk management. Schedule and Format: Running from January 13th to May 17th, classes on Fridays from 1:00 PM to 2:30 PM. Includes risk assessment workshops, discussions, and a comprehensive risk management project.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Personal Financial Planning",
+        "description": "Covers strategies and tools for effective personal financial management. Topics include budgeting, saving, investing, tax planning, insurance, and retirement planning. Instructor Profile: Prof. Michael Roberts, a certified financial planner. Schedule and Format: Runs from January 10th to May 15th, on Tuesdays and Thursdays from 4:00 PM to 5:30 PM. Includes practical exercises, personal finance projects, and guest lectures.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Real Estate Finance",
+        "description": "Focuses on principles of financing and investing in real estate. Topics include real estate markets, property valuation, mortgage financing, and investment analysis. Instructor Profile: Dr. Linda Johnson, with a background in real estate development and finance. Schedule and Format: Offered from January 12th to May 18th, on Wednesdays and Fridays from 2:00 PM to 3:30 PM. Includes case studies, property analysis projects, and a final group project.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Behavioral Finance",
+        "description": "Examines psychological factors influencing financial decision-making. Topics include investor behavior, financial anomalies, market bubbles, and impact of emotions on investment decisions. Instructor Profile: Prof. James Carter, an expert in behavioral economics. Schedule and Format: Scheduled from January 13th to May 17th, classes on Fridays from 10:00 AM to 11:30 AM. Includes behavioral experiment assignments, case studies, and a final project.",
+        "enrolledStudents": []
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6564e5fd5f1853b769748cb3"
+  },
+  "major": {
+    "title": "History",
+    "courses": [
+      {
+        "title": "World History to 1500",
+        "description": "This course covers the major developments in world history up to the year 1500, exploring ancient civilizations, medieval societies, and early modern states. Instructor Profile: Dr. Emily Anderson, an expert in ancient history, brings a global perspective. Schedule and Format: Running from January 10th to May 15th, classes are on Mondays and Wednesdays from 9:00 AM to 10:30 AM. The course includes lectures, discussions, and analysis of primary sources.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Modern European History",
+        "description": "Focuses on European history from the Renaissance to the present, including the Reformation, Enlightenment, Industrial Revolution, and the World Wars. Instructor Profile: Prof. John Smith, specializing in European history. Schedule and Format: Offered from January 11th to May 16th, classes are on Tuesdays and Thursdays from 2:00 PM to 3:30 PM. Includes interactive lectures, group projects, and a research paper.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "American History: Colonial Period to Civil War",
+        "description": "Examines the history of the United States from the colonial period through the Civil War. Topics include colonization, independence, constitution-making, and the Civil War. Instructor Profile: Dr. Linda Martinez, an expert in American history. Schedule and Format: Scheduled from January 10th to May 15th, classes are on Mondays and Wednesdays from 11:00 AM to 12:30 PM. Involves primary source analysis, debates, and a midterm project.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "History of Asia",
+        "description": "Covers the political, cultural, and social history of Asia, focusing on major Asian civilizations such as China, India, and Japan. Instructor Profile: Prof. Michael Lee, with a focus on Asian studies. Schedule and Format: Offered from January 12th to May 18th, classes are on Tuesdays and Thursdays from 4:00 PM to 5:30 PM. Includes documentary viewings, group discussions, and a final presentation.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "History of Africa",
+        "description": "Explores the rich and diverse history of Africa, from ancient times to the present, including the impact of colonialism and post-colonial developments. Instructor Profile: Dr. Sarah Johnson, a renowned African historian. Schedule and Format: Runs from January 13th to May 17th, classes are on Fridays from 10:00 AM to 11:30 AM. The course involves case studies, group projects, and an extensive research essay.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Latin American History",
+        "description": "This course examines the history of Latin America, including pre-Columbian cultures, colonialism, independence movements, and modern developments. Instructor Profile: Prof. Emily Rodriguez, an expert in Latin American studies. Schedule and Format: Scheduled from January 10th to May 15th, classes on Mondays and Wednesdays from 2:00 PM to 3:30 PM. Involves historical film analysis, group presentations, and a term paper.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "History of the Middle East",
+        "description": "Covers the historical developments in the Middle East from ancient civilizations to modern times, focusing on cultural, political, and religious aspects. Instructor Profile: Dr. Mark Thompson, specializing in Middle Eastern history. Schedule and Format: The course runs from January 12th to May 18th, with classes on Thursdays and Fridays from 9:00 AM to 10:30 AM. Includes primary source readings, discussions, and a research project.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "History of Science and Technology",
+        "description": "Examines the development of science and technology from ancient times to the present, highlighting key discoveries and innovations. Instructor Profile: Prof. Kevin Brown, with a background in the history of science. Schedule and Format: Offered from January 11th to May 16th, classes are on Tuesdays and Thursdays from 1:00 PM to 2:30 PM. Involves lab visits, interactive lectures, and a group project on a historical scientific development.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Historical Research Methods",
+        "description": "This course teaches the methodologies of historical research, including source analysis, historiography, and research design. It is essential for students planning to write a thesis. Instructor Profile: Dr. Susan Martinez, known for her expertise in research methodologies. Schedule and Format: Runs from January 13th to May 17th, on Fridays from 1:00 PM to 2:30 PM. Includes workshops on research methods, a series of short research assignments, and a final research proposal.",
+        "enrolledStudents": []
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6564e9065f1853b769748cb4"
+  },
+  "major": {
+    "title": "Criminology",
+    "courses": [
+      {
+        "title": "Introduction to Criminology",
+        "description": "This foundational course explores the field of criminology, including theories of crime, types of crime, and the criminal justice system. Instructor Profile: Dr. Emily Anderson, an expert in criminal behavior. Schedule and Format: Running from January 10th to May 15th, classes are on Mondays and Wednesdays from 9:00 AM to 10:30 AM. The course includes lectures, case studies, and discussions on contemporary issues in criminology.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Criminal Law",
+        "description": "Focuses on the fundamentals of criminal law, including legal definitions of crimes, criminal responsibility, and the legal process. Instructor Profile: Prof. John Smith, a former criminal attorney with practical experience in the field. Schedule and Format: Offered from January 11th to May 16th, classes are on Tuesdays and Thursdays from 2:00 PM to 3:30 PM. The course includes analysis of legal cases, mock trials, and a research paper.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Criminal Justice System",
+        "description": "This course examines the components and functions of the criminal justice system, including law enforcement, courts, and corrections. Instructor Profile: Dr. Linda Martinez, with experience in criminal justice administration. Schedule and Format: Scheduled from January 10th to May 15th, classes are on Mondays and Wednesdays from 11:00 AM to 12:30 PM. Involves field trips, guest lectures from criminal justice professionals, and group projects.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Juvenile Delinquency",
+        "description": "Explores the nature, extent, and causes of juvenile delinquency, as well as the juvenile justice system. Instructor Profile: Prof. Michael Lee, specializing in youth crime. Schedule and Format: Offered from January 12th to May 18th, classes are on Tuesdays and Thursdays from 4:00 PM to 5:30 PM. Includes discussions on case studies, policy analysis, and a project on juvenile justice intervention.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Policing in Society",
+        "description": "This course examines the role of policing in society, including police functions, community policing, and issues in police administration. Instructor Profile: Dr. Sarah Johnson, an expert in law enforcement and public safety. Schedule and Format: Runs from January 13th to May 17th, classes are on Fridays from 10:00 AM to 11:30 AM. The course involves role-playing exercises, analysis of policing strategies, and a research paper on a policing topic.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Criminological Theory",
+        "description": "Focuses on the major theoretical perspectives in criminology, including classical, biological, psychological, and sociological theories. Instructor Profile: Prof. Emily Rodriguez, known for her research in criminological theory. Schedule and Format: Scheduled from January 10th to May 15th, classes on Mondays and Wednesdays from 2:00 PM to 3:30 PM. Involves theoretical discussions, application of theories to case studies, and a term paper.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Forensic Science",
+        "description": "Covers the application of scientific techniques in crime investigation. Topics include DNA analysis, fingerprinting, and forensic psychology. Instructor Profile: Dr. Mark Thompson, with a background in forensic pathology. Schedule and Format: The course runs from January 12th to May 18th, with classes on Thursdays and Fridays from 9:00 AM to 10:30 AM. Includes laboratory work, guest lectures from forensic experts, and a project on a forensic investigation.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Criminal Profiling",
+        "description": "This course explores the techniques used in criminal profiling, focusing on offender types, profiling methodologies, and case analysis. Instructor Profile: Prof. Kevin Brown, an expert in behavioral analysis. Schedule and Format: Offered from January 11th to May 16th, classes are on Tuesdays and Thursdays from 1:00 PM to 2:30 PM. Includes case study analysis, profiling exercises, and a final project on developing a criminal profile.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Victimology",
+        "description": "Examines the study of victims, including the role of victims in the criminal justice process, victim rights, and services for victims. Instructor Profile: Dr. Susan Martinez, known for her work in victim advocacy. Schedule and Format: Runs from January 13th to May 17th, on Fridays from 1:00 PM to 2:30 PM. Involves research on victimization patterns, guest speakers from victim services, and a project on victim assistance programs.",
+        "enrolledStudents": []
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6564ea8a5f1853b769748cb5"
+  },
+  "major": {
+    "title": "Cyber Security",
+    "courses": [
+      {
+        "title": "Introduction to Cyber Security",
+        "description": "This foundational course introduces students to the principles of cyber security, including basic concepts of information security, cyber threats, and defense strategies. Instructor Profile: Dr. Emily Anderson, with extensive experience in network security. Schedule and Format: Running from January 10th to May 15th, classes are on Mondays and Wednesdays from 9:00 AM to 10:30 AM. Includes lectures, lab exercises, and discussions on current cyber security issues.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Network Security",
+        "description": "Focuses on securing computer networks, including concepts of network topologies, protocols, vulnerabilities, and defense mechanisms. Instructor Profile: Prof. John Smith, a specialist in network security systems. Schedule and Format: Offered from January 11th to May 16th, classes are on Tuesdays and Thursdays from 2:00 PM to 3:30 PM. Involves hands-on lab work, network security design projects, and a series of security challenge exercises.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Ethical Hacking and Penetration Testing",
+        "description": "This course teaches the techniques of ethical hacking and penetration testing to identify vulnerabilities in systems and networks. Instructor Profile: Dr. Linda Martinez, an expert in ethical hacking methodologies. Schedule and Format: Scheduled from January 10th to May 15th, classes are on Mondays and Wednesdays from 11:00 AM to 12:30 PM. Involves hands-on labs, simulated attack exercises, and a capstone penetration testing project.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Digital Forensics",
+        "description": "Explores the field of digital forensics, focusing on the recovery and investigation of material found in digital devices. Instructor Profile: Prof. Michael Lee, with a background in cybercrime investigation. Schedule and Format: Offered from January 12th to May 18th, classes are on Tuesdays and Thursdays from 4:00 PM to 5:30 PM. Includes forensic analysis labs, case studies, and a project involving a mock digital forensic investigation.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Cybersecurity Policy and Law",
+        "description": "This course examines the legal and policy aspects of cybersecurity, including privacy laws, regulatory frameworks, and international cyber law. Instructor Profile: Dr. Sarah Johnson, specializing in cyber law and policy. Schedule and Format: Runs from January 13th to May 17th, classes are on Fridays from 10:00 AM to 11:30 AM. Involves analysis of policy documents, legal case studies, and a final paper on a cybersecurity policy issue.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Cybersecurity Risk Management",
+        "description": "Focuses on identifying, analyzing, and managing cyber risks in organizational contexts. Covers risk assessment methodologies and strategies for risk mitigation. Instructor Profile: Prof. Emily Rodriguez, an expert in IT risk management. Schedule and Format: Scheduled from January 10th to May 15th, classes on Mondays and Wednesdays from 2:00 PM to 3:30 PM. Involves risk assessment workshops, group projects, and case studies.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Information Assurance and Security",
+        "description": "Covers the strategies for ensuring the confidentiality, integrity, and availability of information. Topics include security policies, disaster recovery, and secure system design. Instructor Profile: Dr. Mark Thompson, with experience in information security management. Schedule and Format: The course runs from January 12th to May 18th, with classes on Thursdays and Fridays from 9:00 AM to 10:30 AM. Includes development of security plans, case studies, and a security audit project.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Cryptography and Network Security",
+        "description": "This course explores cryptographic techniques and their application in securing networks and data. Topics include encryption algorithms, key management, and cryptographic protocols. Instructor Profile: Prof. Kevin Brown, a cryptography specialist. Schedule and Format: Offered from January 11th to May 16th, classes are on Tuesdays and Thursdays from 1:00 PM to 2:30 PM. Involves cryptographic exercises, network security labs, and a final project on designing a cryptographic solution.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Incident Response and Disaster Recovery",
+        "description": "Examines the strategies and practices for responding to cybersecurity incidents and recovering from them. Instructor Profile: Dr. Susan Martinez, known for her work in cyber incident response. Schedule and Format: Runs from January 13th to May 17th, on Fridays from 1:00 PM to 2:30 PM. Involves simulation exercises, development of incident response plans, and a group project on disaster recovery planning.",
+        "enrolledStudents": []
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6564eb725f1853b769748cb7"
+  },
+  "major": {
+    "title": "Marketing",
+    "courses": [
+      {
+        "title": "Principles of Marketing",
+        "description": "This introductory course covers the fundamental concepts of marketing, including market research, product development, pricing strategies, and promotion. Instructor Profile: Dr. Emily Anderson, known for her expertise in market analysis. Schedule and Format: Running from January 10th to May 15th, classes are on Mondays and Wednesdays from 9:00 AM to 10:30 AM. Includes case studies, group projects, and discussions on current marketing trends.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Principles of Marketing",
+        "description": "This introductory course covers the fundamental concepts of marketing, including market research, product development, pricing strategies, and promotion. Instructor Profile: Dr. Emily Anderson, known for her expertise in market analysis. Schedule and Format: Running from January 10th to May 15th, classes are on Mondays and Wednesdays from 9:00 AM to 10:30 AM. Includes case studies, group projects, and discussions on current marketing trends.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Digital Marketing",
+        "description": "This course explores marketing strategies in the digital world, including social media marketing, search engine optimization, and email marketing. Instructor Profile: Dr. Linda Martinez, an expert in online marketing strategies. Schedule and Format: Scheduled from January 10th to May 15th, classes are on Mondays and Wednesdays from 11:00 AM to 12:30 PM. Involves hands-on projects with digital marketing tools, online campaign planning, and a final digital marketing strategy project.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Marketing Research",
+        "description": "Covers the methodologies and techniques of market research, including data collection, analysis, and interpretation. Instructor Profile: Prof. Michael Lee, with a background in market analytics. Schedule and Format: Offered from January 12th to May 18th, classes are on Tuesdays and Thursdays from 4:00 PM to 5:30 PM. Includes field research, data analysis workshops, and a group market research project.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Brand Management",
+        "description": "This course examines the strategies for building, managing, and evaluating brand equity. Topics include brand positioning, brand portfolio management, and brand loyalty. Instructor Profile: Dr. Sarah Johnson, specializing in brand strategy. Schedule and Format: Runs from January 13th to May 17th, classes are on Fridays from 10:00 AM to 11:30 AM. The course involves case studies on successful brands, brand development projects, and analysis of branding strategies.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "International Marketing",
+        "description": "Focuses on marketing strategies in the global marketplace. Covers topics like global market entry, cultural considerations, and international marketing mix. Instructor Profile: Prof. Emily Rodriguez, with experience in global marketing campaigns. Schedule and Format: Scheduled from January 10th to May 15th, classes on Mondays and Wednesdays from 2:00 PM to 3:30 PM. Involves analysis of international marketing cases, development of a global marketing plan, and discussions on cultural differences in marketing.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Advertising and Promotion",
+        "description": "Examines the principles and practices of advertising and promotional strategies. Topics include media planning, creative strategy, and campaign development. Instructor Profile: Dr. Mark Thompson, an expert in advertising tactics. Schedule and Format: The course runs from January 12th to May 18th, with classes on Thursdays and Fridays from 9:00 AM to 10:30 AM. Includes the creation of advertising materials, media planning exercises, and a final advertising campaign project.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Social Media Marketing",
+        "description": "This course focuses on marketing strategies using social media platforms. Explores content creation, engagement techniques, and measurement of social media effectiveness. Instructor Profile: Prof. Kevin Brown, specializing in social media trends. Schedule and Format: Offered from January 11th to May 16th, classes are on Tuesdays and Thursdays from 1:00 PM to 2:30 PM. Involves practical projects with social media platforms, analysis of successful social media campaigns, and a final project on social media strategy.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Sales Management",
+        "description": "Covers the strategies and skills for effective sales management, including sales force management, customer relationship management, and sales techniques. Instructor Profile: Dr. Susan Martinez, with a wealth of experience in sales leadership. Schedule and Format: Runs from January 13th to May 17th, on Fridays from 1:00 PM to 2:30 PM. Includes role-playing sales scenarios, analysis of sales management strategies, and a project on designing a sales plan.",
+        "enrolledStudents": []
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6564ec995f1853b769748cb8"
+  },
+  "major": {
+    "title": "Psychology",
+    "courses": [
+      {
+        "title": "Introduction to Psychology",
+        "description": "This foundational course provides an overview of psychology, including major psychological theories, research methods, and applications. Instructor Profile: Dr. Emily Anderson, known for her engaging teaching style and expertise in developmental psychology. Schedule and Format: Running from January 10th to May 15th, classes are on Mondays and Wednesdays from 9:00 AM to 10:30 AM. Includes lectures, interactive discussions, and a final project on a psychology topic.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Developmental Psychology",
+        "description": "Focuses on human development across the lifespan, including cognitive, emotional, and social development. Instructor Profile: Prof. John Smith, specializing in child development and learning. Schedule and Format: Offered from January 11th to May 16th, classes are on Tuesdays and Thursdays from 2:00 PM to 3:30 PM. Includes case studies, observational assignments, and a research paper on a developmental topic.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Abnormal Psychology",
+        "description": "This course examines psychological disorders, their causes, symptoms, and treatments. Topics include anxiety disorders, mood disorders, schizophrenia, and personality disorders. Instructor Profile: Dr. Linda Martinez, an expert in clinical psychology. Schedule and Format: Scheduled from January 10th to May 15th, classes are on Mondays and Wednesdays from 11:00 AM to 12:30 PM. Involves analysis of case studies, discussions on therapeutic approaches, and a final project on a specific disorder.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Social Psychology",
+        "description": "Explores how individuals' thoughts, feelings, and behaviors are influenced by others. Topics include social perception, group behavior, and social influence. Instructor Profile: Prof. Michael Lee, with a background in social behavior and group dynamics. Schedule and Format: Offered from January 12th to May 18th, classes are on Tuesdays and Thursdays from 4:00 PM to 5:30 PM. Includes experiments, group projects, and a paper on a social psychology experiment.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Cognitive Psychology",
+        "description": "This course covers the study of mental processes such as attention, memory, language, problem-solving, and decision-making. Instructor Profile: Dr. Sarah Johnson, known for her research in cognitive neuroscience. Schedule and Format: Runs from January 13th to May 17th, classes are on Fridays from 10:00 AM to 11:30 AM. Involves cognitive experiments, research assignments, and a final project on a cognitive topic.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Biopsychology",
+        "description": "Examines the biological basis of behavior, including neuroscience, brain function, and the physiological processes underlying behavior. Instructor Profile: Prof. Emily Rodriguez, specializing in neuropsychology. Schedule and Format: Scheduled from January 10th to May 15th, classes on Mondays and Wednesdays from 2:00 PM to 3:30 PM. Includes lab work, neuroimaging analysis, and a research project on a biopsychology topic.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Psychology of Personality",
+        "description": "Covers theories of personality, personality assessment, and the influence of personality on behavior. Instructor Profile: Dr. Mark Thompson, an expert in personality psychology. Schedule and Format: The course runs from January 12th to May 18th, with classes on Thursdays and Fridays from 9:00 AM to 10:30 AM. Includes personality assessments, case studies, and a term paper on a personality theory.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Psychological Research Methods",
+        "description": "This course teaches the methodologies of psychological research, including experimental design, data collection, and statistical analysis. Instructor Profile: Prof. Kevin Brown, known for his methodological expertise. Schedule and Format: Offered from January 11th to May 16th, classes are on Tuesdays and Thursdays from 1:00 PM to 2:30 PM. Includes hands-on research projects, data analysis workshops, and a final research paper.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Clinical Psychology",
+        "description": "Examines the assessment, diagnosis, and treatment of psychological disorders. Topics include therapeutic techniques, client-therapist relationships, and ethical issues in therapy. Instructor Profile: Dr. Susan Martinez, a practicing clinical psychologist. Schedule and Format: Runs from January 13th to May 17th, on Fridays from 1:00 PM to 2:30 PM. Involves role-playing therapy sessions, case analyses, and a project on a clinical intervention.",
+        "enrolledStudents": []
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6564efaf5f1853b769748cb9"
+  },
+  "major": {
+    "title": "English",
+    "courses": [
+      {
+        "title": "Introduction to Literature",
+        "description": "This foundational course introduces students to the study of literature, covering major literary genres including poetry, fiction, and drama. Instructor Profile: Dr. Emily Anderson, an expert in literary analysis. Schedule and Format: Running from January 10th to May 15th, classes are on Mondays and Wednesdays from 9:00 AM to 10:30 AM. Includes discussions, close readings of texts, and a final analytical essay.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "British Literature",
+        "description": "Covers major works of British literature from the Middle Ages to the present, focusing on key authors and literary movements. Instructor Profile: Prof. John Smith, specializing in Shakespearean drama. Schedule and Format: Offered from January 11th to May 16th, classes are on Tuesdays and Thursdays from 2:00 PM to 3:30 PM. Involves in-depth study of selected texts, group discussions, and a research paper.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "American Literature",
+        "description": "This course explores the development of American literature, examining key authors and literary trends from colonial times to the modern era. Instructor Profile: Dr. Linda Martinez, an expert in American realism. Schedule and Format: Scheduled from January 10th to May 15th, classes are on Mondays and Wednesdays from 11:00 AM to 12:30 PM. Includes thematic studies, literary critiques, and a final project on American literary analysis.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Creative Writing",
+        "description": "Focuses on developing skills in creative writing, including fiction, poetry, and non-fiction. Instructor Profile: Prof. Michael Lee, a published author and poet. Schedule and Format: Offered from January 12th to May 18th, classes are on Tuesdays and Thursdays from 4:00 PM to 5:30 PM. Includes writing workshops, peer reviews, and a final portfolio of creative work.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Literary Theory and Criticism",
+        "description": "Examines various approaches to literary theory and criticism, including formalism, structuralism, post-structuralism, and feminist theory. Instructor Profile: Dr. Sarah Johnson, known for her work in contemporary literary theory. Schedule and Format: Runs from January 13th to May 17th, classes are on Fridays from 10:00 AM to 11:30 AM. Involves critical reading, theoretical discussions, and a final analytical paper.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Shakespeare",
+        "description": "Covers the works of William Shakespeare, with an emphasis on his plays. Topics include Shakespeare's language, themes, historical context, and performance. Instructor Profile: Prof. Emily Rodriguez, a Shakespearean scholar. Schedule and Format: Scheduled from January 10th to May 15th, classes on Mondays and Wednesdays from 2:00 PM to 3:30 PM. Involves play readings, performance studies, and a research paper on a Shakespearean play.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Modern and Contemporary Literature",
+        "description": "Focuses on literature from the late 19th century to the present, exploring modernism, postmodernism, and contemporary literary forms. Instructor Profile: Dr. Mark Thompson, with a focus on 20th-century literature. Schedule and Format: The course runs from January 12th to May 18th, with classes on Thursdays and Fridays from 9:00 AM to 10:30 AM. Includes analysis of modern and contemporary texts, literary discussions, and a final project on a contemporary author.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "World Literature",
+        "description": "This course explores significant literary works from around the world, examining themes, styles, and cultural contexts. Instructor Profile: Prof. Kevin Brown, specializing in global literary traditions. Schedule and Format: Offered from January 11th to May 16th, classes are on Tuesdays and Thursdays from 1:00 PM to 2:30 PM. Involves comparative literature studies, group discussions, and a final paper on a world literature topic.",
+        "enrolledStudents": []
+      },
+      {
+        "title": "Writing and Rhetoric",
+        "description": "Examines principles of effective writing and rhetoric, focusing on argumentation, persuasive writing, and rhetorical analysis. Instructor Profile: Dr. Susan Martinez, known for her expertise in rhetoric and composition. Schedule and Format: Runs from January 13th to May 17th, on Fridays from 1:00 PM to 2:30 PM. Involves writing assignments, rhetorical critiques, and a final project on rhetorical analysis.",
+        "enrolledStudents": []
+      }
+    ]
+  }
+}]
