@@ -3,11 +3,11 @@
     "$oid": "655265cd9a7d733a2c2c02a9"
   },
   "major": {
-    "title": "Software Development",
+    "title": "software_development",
     "courses": [
       {
         "title": "Introduction to Computer Science",
-        "description": "Introduction to Computer Science is an entry-level course for students majoring in software development or related fields. This course provides a comprehensive overview of the fundamental concepts in computer science. Students will explore the history and evolution of computing, the basics of computer architecture, and an introduction to programming languages, emphasizing understanding how software and hardware interact. The course includes practical exercises and projects, enabling students to apply theoretical concepts in real-world scenarios. Emphasis is placed on problem-solving and algorithmic thinking, laying a solid foundation for more advanced studies in software development. Instructor Profile: The course is led by Dr. Emily Johnson, a distinguished professor in the Department of Computer Science with over 15 years of experience in academia and the software industry. Dr. Johnson holds a Ph.D. in Computer Science from MIT and has worked with several leading tech companies on innovative software solutions. She is known for her engaging teaching style and deep knowledge of computer science fundamentals. Dr. Johnson emphasizes practical skills alongside theoretical understanding, ensuring that students are well-prepared for the challenges of modern software development.Schedule and Format: Introduction to Computer Science is scheduled for the upcoming semester from January 10th to May 15th. Classes will be held Mondays and Wednesdays from 10:00 AM to 11:30 AM in the Smith Hall, Room 204. In addition to the twice-weekly lectures, students will participate in a weekly lab session on Fridays from 2:00 PM to 4:00 PM, providing hands-on experience with the concepts discussed in class. The course also includes online components, such as discussion forums and digital resources, accessible through the university's learning management system. Assessment will be based on assignments, projects, quizzes, and a final examination.",
+        "description": "Introduction to Computer Science is an entry-level course for students majoring in software development or related fields. This course provides a comprehensive overview of the fundamental concepts in computer science. Students will explore the history and evolution of computing, the basics of computer architecture, and an introduction to programming languages, emphasizing understanding how software and hardware interact. The course includes practical exercises and projects, enabling students to apply theoretical concepts in real-world scenarios. Emphasis is placed on problem-solving and algorithmic thinking, laying a solid foundation for more advanced studies in software development.\nInstructor Profile: The course is led by Dr. Emily Johnson, a distinguished professor in the Department of Computer Science with over 15 years of experience in academia and the software industry. Dr. Johnson holds a Ph.D. in Computer Science from MIT and has worked with several leading tech companies on innovative software solutions. She is known for her engaging teaching style and deep knowledge of computer science fundamentals. Dr. Johnson emphasizes practical skills alongside theoretical understanding, ensuring that students are well-prepared for the challenges of modern software development.Schedule and Format: Introduction to Computer Science is scheduled for the upcoming semester from January 10th to May 15th. Classes will be held Mondays and Wednesdays from 10:00 AM to 11:30 AM in the Smith Hall, Room 204. In addition to the twice-weekly lectures, students will participate in a weekly lab session on Fridays from 2:00 PM to 4:00 PM, providing hands-on experience with the concepts discussed in class. The course also includes online components, such as discussion forums and digital resources, accessible through the university's learning management system. Assessment will be based on assignments, projects, quizzes, and a final examination.",
         "enrolledStudents": []
       },
       {
@@ -58,7 +58,7 @@
     "$oid": "6564dd9d5f1853b769748caf"
   },
   "major": {
-    "title": "Business Administration",
+    "title": "business_administration",
     "courses": [
       {
         "title": "Principles of Management",
@@ -113,7 +113,7 @@
     "$oid": "6564e02b5f1853b769748cb0"
   },
   "major": {
-    "title": "Communication",
+    "title": "communication",
     "courses": [
       {
         "title": "Introduction to Communication Studies",
@@ -165,65 +165,10 @@
 },
 {
   "_id": {
-    "$oid": "6564e42b5f1853b769748cb1"
-  },
-  "major": {
-    "title": "Communication",
-    "courses": [
-      {
-        "title": "Principles of Finance",
-        "description": "This introductory course covers the basic concepts and tools of finance, including financial analysis, planning, and decision-making. Topics include time value of money, risk and return, capital budgeting, and financial markets. Instructor Profile: Prof. Alan Smith, with extensive experience in corporate finance, brings real-world scenarios into the classroom. Schedule and Format: Scheduled from January 10th to May 15th, classes are on Mondays and Wednesdays from 9:00 AM to 10:30 AM. The course includes case studies, financial modeling exercises, and a final project.",
-        "enrolledStudents": []
-      },
-      {
-        "title": "Corporate Finance",
-        "description": "Corporate Finance focuses on financial decision-making in corporations. Topics include capital structure, dividend policy, mergers and acquisitions, and corporate governance. Instructor Profile: Dr. Emily Johnson, known for her practical approach to teaching finance, combines her experience in corporate financial management with academic insights. Schedule and Format: Offered from January 12th to May 18th, classes are held on Tuesdays and Thursdays from 11:00 AM to 12:30 PM. The course involves case studies, group projects, and simulations.",
-        "enrolledStudents": []
-      },
-      {
-        "title": "Investment Analysis",
-        "description": "This course covers the fundamentals of investment theory, portfolio management, and security analysis. Topics include stocks, bonds, mutual funds, risk management, and investment strategies. Instructor Profile: Prof. Mark Benson, with a background in investment banking, provides insights into real-world investment scenarios. Schedule and Format: The course runs from January 10th to May 15th, with classes on Mondays and Wednesdays from 2:00 PM to 3:30 PM. It includes market analysis assignments, portfolio simulations, and a final investment strategy project.",
-        "enrolledStudents": []
-      },
-      {
-        "title": "Financial Markets and Institutions",
-        "description": "This course explores the structure, function, and role of financial markets and institutions like banks, insurance companies, and investment firms. Topics include market operations, regulatory environment, and the impact of financial institutions on the economy. Instructor Profile: Dr. Lisa Chang, an expert in financial regulations and market analysis, brings a depth of knowledge to the subject. Schedule and Format: Scheduled from January 14th to May 19th, classes are on Saturdays from 10:00 AM to 11:30 AM. The course includes guest lectures from industry professionals, market research projects, and policy analysis.",
-        "enrolledStudents": []
-      },
-      {
-        "title": "International Finance",
-        "description": "International Finance examines financial management in an international context. Topics include foreign exchange markets, international financial systems, risk management, and multinational corporate finance. Instructor Profile: Prof. David Nguyen, with experience in international financial consulting, provides a global perspective on finance. Schedule and Format: Offered from January 11th to May 16th, with classes on Wednesdays and Fridays from 3:00 PM to 4:30 PM. The course includes case studies on multinational corporations, currency market simulations, and a final research project on an international finance topic.",
-        "enrolledStudents": []
-      },
-      {
-        "title": "Financial Risk Management",
-        "description": "This course focuses on identifying, analyzing, and managing financial risks in business operations. Topics include market risk, credit risk, operational risk, and risk mitigation strategies. Instructor Profile: Prof. Susan Martinez, specializing in risk management, brings a blend of theory and practice to the classroom. Schedule and Format: Running from January 13th to May 17th, classes are on Fridays from 1:00 PM to 2:30 PM. The course involves risk assessment workshops, group discussions, and a comprehensive risk management project.",
-        "enrolledStudents": []
-      },
-      {
-        "title": "Personal Financial Planning",
-        "description": "Personal Financial Planning covers strategies and tools for effective personal financial management. Topics include budgeting, saving, investing, tax planning, insurance, and retirement planning. Instructor Profile: Prof. Michael Roberts, a certified financial planner with extensive experience, guides students through the nuances of personal finance. Schedule and Format: The course runs from January 10th to May 15th, with classes on Tuesdays and Thursdays from 4:00 PM to 5:30 PM. It includes practical exercises, personal finance projects, and guest lectures from financial planning professionals.",
-        "enrolledStudents": []
-      },
-      {
-        "title": "Real Estate Finance",
-        "description": "Real Estate Finance focuses on the principles of financing and investing in real estate. Topics include real estate markets, property valuation, mortgage financing, and investment analysis. Instructor Profile: Dr. Linda Johnson, with a background in real estate development and finance, brings real-world experiences to the classroom. Schedule and Format: Offered from January 12th to May 18th, classes are held on Wednesdays and Fridays from 2:00 PM to 3:30 PM. The course includes case studies, property analysis projects, and a final group project on a real estate investment proposal.",
-        "enrolledStudents": []
-      },
-      {
-        "title": "Behavioral Finance",
-        "description": "Behavioral Finance examines the psychological factors that influence financial decision-making. Topics include investor behavior, financial anomalies, market bubbles, and the impact of emotions on investment decisions. Instructor Profile: Prof. James Carter, an expert in behavioral economics, provides insights into the psychological aspects of finance. Schedule and Format: The course is scheduled from January 13th to May 17th, with classes on Fridays from 10:00 AM to 11:30 AM. It includes behavioral experiment assignments, analysis of financial case studies, and a final project on a behavioral finance topic.",
-        "enrolledStudents": []
-      }
-    ]
-  }
-},
-{
-  "_id": {
     "$oid": "6564e57b5f1853b769748cb2"
   },
   "major": {
-    "title": "Finance",
+    "title": "finance",
     "courses": [
       {
         "title": "Principles of Finance",
@@ -278,7 +223,7 @@
     "$oid": "6564e5fd5f1853b769748cb3"
   },
   "major": {
-    "title": "History",
+    "title": "history",
     "courses": [
       {
         "title": "World History to 1500",
@@ -333,7 +278,7 @@
     "$oid": "6564e9065f1853b769748cb4"
   },
   "major": {
-    "title": "Criminology",
+    "title": "criminology",
     "courses": [
       {
         "title": "Introduction to Criminology",
@@ -388,7 +333,7 @@
     "$oid": "6564ea8a5f1853b769748cb5"
   },
   "major": {
-    "title": "Cyber Security",
+    "title": "cyber_security",
     "courses": [
       {
         "title": "Introduction to Cyber Security",
@@ -443,7 +388,7 @@
     "$oid": "6564eb725f1853b769748cb7"
   },
   "major": {
-    "title": "Marketing",
+    "title": "marketing",
     "courses": [
       {
         "title": "Principles of Marketing",
@@ -498,7 +443,7 @@
     "$oid": "6564ec995f1853b769748cb8"
   },
   "major": {
-    "title": "Psychology",
+    "title": "psychology",
     "courses": [
       {
         "title": "Introduction to Psychology",
@@ -553,7 +498,7 @@
     "$oid": "6564efaf5f1853b769748cb9"
   },
   "major": {
-    "title": "English",
+    "title": "english",
     "courses": [
       {
         "title": "Introduction to Literature",
