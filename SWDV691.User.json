@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "655b8bdd2814b9312958e8aa"
+  },
+  "user": {
+    "username": "Elainem",
+    "email": "Ela@ela.com",
+    "password": "mylove",
+    "profilePicture": "",
+    "major": "software_development",
+    "bio": "Elainem is a passionate software developer with over a decade of experience creating applications. Graduating at the top of her class from Maryville, she quickly made a name for herself in the tech world. Known for her expertise in Java and Python, Elainem has contributed to several high-profile projects, including developing a groundbreaking AI platform. \n\nWhen she's not coding, Elainem enjoys mentoring young tech enthusiasts and exploring the latest trends in machine learning. Her dedication to pushing the boundaries of technology is matched only by her commitment to fostering an inspiring tech community.",
+    "enrolledCourses": [],
+    "communityInteractions": []
+  }
+}]
