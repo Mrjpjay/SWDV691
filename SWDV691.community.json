@@ -1,0 +1,137 @@
+[{
+  "_id": {
+    "$oid": "655269db9a7d733a2c2c02ac"
+  },
+  "community": {
+    "major": "software_development",
+    "title": "Software Development forum",
+    "comments": [
+      {
+        "commenter": "Elainem",
+        "comment": "What time is class?",
+        "timestamp": "2023-12-16T06:02:07.771Z",
+        "course": "Introduction to Computer Science"
+      },
+      {
+        "commenter": "Elainem",
+        "comment": "Never mind. ",
+        "timestamp": "2023-12-16T06:02:21.989Z",
+        "course": "Introduction to Computer Science"
+      },
+      {
+        "commenter": "Elainem",
+        "comment": "This 8 weeks have been amazing, thank you for the awesome experience. Juan out!",
+        "timestamp": "2023-12-16T06:11:04.215Z",
+        "course": "Programming Fundamentals"
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "65789fad9ca12e7147cd5a53"
+  },
+  "community": {
+    "major": "business_administration",
+    "title": "Business administration forum",
+    "comments": [
+      {}
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "65789ff89ca12e7147cd5a54"
+  },
+  "community": {
+    "major": "communication",
+    "title": "Communication forum",
+    "comments": [
+      {}
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6578a0179ca12e7147cd5a55"
+  },
+  "community": {
+    "major": "finance",
+    "title": "Finance forum",
+    "comments": [
+      {}
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6578a0309ca12e7147cd5a56"
+  },
+  "community": {
+    "major": "history",
+    "title": "History forum",
+    "comments": [
+      {}
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6578a04b9ca12e7147cd5a57"
+  },
+  "community": {
+    "major": "criminology",
+    "title": "Criminology forum",
+    "comments": [
+      {}
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6578a0649ca12e7147cd5a58"
+  },
+  "community": {
+    "major": "cyber_security",
+    "title": "Cyber Security forum",
+    "comments": [
+      {}
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6578a0849ca12e7147cd5a59"
+  },
+  "community": {
+    "major": "marketing",
+    "title": "Marketing forum",
+    "comments": [
+      {}
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6578a09b9ca12e7147cd5a5a"
+  },
+  "community": {
+    "major": "psychology",
+    "title": "Psychology forum",
+    "comments": [
+      {}
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6578a0b19ca12e7147cd5a5b"
+  },
+  "community": {
+    "major": "english",
+    "title": "English forum",
+    "comments": [
+      {}
+    ]
+  }
+}]
